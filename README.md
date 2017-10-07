@@ -1,4 +1,5 @@
-# JUnit5IntelliJ
-IntelliJ project with a simple class and a JUnit 5 test
+# JavaCodeWarsExercises
 
-This master branch is used as the starting point in the following JUnit guide: https://bit.ly/2lNDmxA.
+Base project forked from joshden/JUnit5IntelliJ - IntelliJ project with a simple class and a JUnit 5 test
+
+Exercises to learn Java and Junit
