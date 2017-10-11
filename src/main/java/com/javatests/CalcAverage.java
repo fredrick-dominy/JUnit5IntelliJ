@@ -1,4 +1,4 @@
-package com.example;
+package com.javatests;
 
 public class CalcAverage {
     public static double find_average(int[] array) {

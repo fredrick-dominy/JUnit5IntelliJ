@@ -1,4 +1,4 @@
-package com.example;
+package com.javatests;
 
 public class SmashWords {
     public static String smash(String... words) {

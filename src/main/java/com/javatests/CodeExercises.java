@@ -1,4 +1,4 @@
-package com.example;
+package com.javatests;
 
 class CodeExercises {
     private final String javaCodeTests;

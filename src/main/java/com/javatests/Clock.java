@@ -1,4 +1,4 @@
-package com.example;
+package com.javatests;
 
 /*
 * Clock shows 'h' hours, 'm' minutes and 's'
