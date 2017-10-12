@@ -28,6 +28,5 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="org.apache.maven.surefire:common-java5:2.20" level="application" />
   </component>
 </module>
