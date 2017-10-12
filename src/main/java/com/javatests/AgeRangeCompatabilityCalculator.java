@@ -1,4 +1,4 @@
-package com.example;
+package com.javatests;
 
 /*
 * Given an integer (1 <= n <= 100) representing a person's age,

@@ -1,5 +1,6 @@
-package com.example;
+package com.javatests;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -7,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class AgeRangeCompatabilityCalculatorTests {
     @Test
     public void fifteenTwenty() {
-        assertEquals("15-20",AgeRangeCompatabilityCalculator.datingRange(17));
+        Assertions.assertEquals("15-20", AgeRangeCompatabilityCalculator.datingRange(17));
     }
     @Test
     public void tsss() {
